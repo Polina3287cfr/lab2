@@ -1,0 +1,54 @@
+C:\Users\Фёдор Ткачук\OneDrive\CEITI\III year - II semester\Visual Programming\polina\Polina\Polina\obj\Debug\Polina.csproj.AssemblyReference.cache
+C:\Users\Фёдор Ткачук\OneDrive\CEITI\III year - II semester\Visual Programming\polina\Polina\Polina\obj\Debug\Polina.csproj.SuggestedBindingRedirects.cache
+C:\Users\Фёдор Ткачук\OneDrive\CEITI\III year - II semester\Visual Programming\polina\Polina\Polina\obj\Debug\MainWindow.g.cs
+C:\Users\Фёдор Ткачук\OneDrive\CEITI\III year - II semester\Visual Programming\polina\Polina\Polina\obj\Debug\Polina_MarkupCompile.cache
+C:\Users\Фёдор Ткачук\OneDrive\CEITI\III year - II semester\Visual Programming\polina\Polina\Polina\obj\Debug\Polina_MarkupCompile.lref
+C:\Users\Фёдор Ткачук\OneDrive\CEITI\III year - II semester\Visual Programming\polina\Polina\Polina\bin\Debug\Polina.exe.config
+C:\Users\Фёдор Ткачук\OneDrive\CEITI\III year - II semester\Visual Programming\polina\Polina\Polina\bin\Debug\Polina.exe
+C:\Users\Фёдор Ткачук\OneDrive\CEITI\III year - II semester\Visual Programming\polina\Polina\Polina\bin\Debug\Polina.pdb
+C:\Users\Фёдор Ткачук\OneDrive\CEITI\III year - II semester\Visual Programming\polina\Polina\Polina\bin\Debug\MaterialDesignColors.dll
+C:\Users\Фёдор Ткачук\OneDrive\CEITI\III year - II semester\Visual Programming\polina\Polina\Polina\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Фёдор Ткачук\OneDrive\CEITI\III year - II semester\Visual Programming\polina\Polina\Polina\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Фёдор Ткачук\OneDrive\CEITI\III year - II semester\Visual Programming\polina\Polina\Polina\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Фёдор Ткачук\OneDrive\CEITI\III year - II semester\Visual Programming\polina\Polina\Polina\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Фёдор Ткачук\OneDrive\CEITI\III year - II semester\Visual Programming\polina\Polina\Polina\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Фёдор Ткачук\OneDrive\CEITI\III year - II semester\Visual Programming\polina\Polina\Polina\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Фёдор Ткачук\OneDrive\CEITI\III year - II semester\Visual Programming\polina\Polina\Polina\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Фёдор Ткачук\OneDrive\CEITI\III year - II semester\Visual Programming\polina\Polina\Polina\obj\Debug\App.g.cs
+C:\Users\Фёдор Ткачук\OneDrive\CEITI\III year - II semester\Visual Programming\polina\Polina\Polina\obj\Debug\App.baml
+C:\Users\Фёдор Ткачук\OneDrive\CEITI\III year - II semester\Visual Programming\polina\Polina\Polina\obj\Debug\MainWindow.baml
+C:\Users\Фёдор Ткачук\OneDrive\CEITI\III year - II semester\Visual Programming\polina\Polina\Polina\obj\Debug\Polina.g.resources
+C:\Users\Фёдор Ткачук\OneDrive\CEITI\III year - II semester\Visual Programming\polina\Polina\Polina\obj\Debug\Polina.Properties.Resources.resources
+C:\Users\Фёдор Ткачук\OneDrive\CEITI\III year - II semester\Visual Programming\polina\Polina\Polina\obj\Debug\Polina.csproj.GenerateResource.cache
+C:\Users\Фёдор Ткачук\OneDrive\CEITI\III year - II semester\Visual Programming\polina\Polina\Polina\obj\Debug\Polina.csproj.CoreCompileInputs.cache
+C:\Users\Фёдор Ткачук\OneDrive\CEITI\III year - II semester\Visual Programming\polina\Polina\Polina\obj\Debug\Polina.csproj.CopyComplete
+C:\Users\Фёдор Ткачук\OneDrive\CEITI\III year - II semester\Visual Programming\polina\Polina\Polina\obj\Debug\Polina.exe
+C:\Users\Фёдор Ткачук\OneDrive\CEITI\III year - II semester\Visual Programming\polina\Polina\Polina\obj\Debug\Polina.pdb
+C:\Users\Фёдор Ткачук\OneDrive\CEITI\III year - II semester\Visual Programming\polina\Polina\Polina\obj\Debug\Form1.g.cs
+C:\Users\Фёдор Ткачук\OneDrive\CEITI\III year - II semester\Visual Programming\polina\Polina\Polina\obj\Debug\Form1.baml
+C:\Users\Фёдор Ткачук\OneDrive\CEITI\III year - II semester\Visual Programming\polina\Polina\Polina\obj\Debug\Form2.g.cs
+C:\Users\Фёдор Ткачук\OneDrive\CEITI\III year - II semester\Visual Programming\polina\Polina\Polina\obj\Debug\Form2.baml
+C:\Users\Lena\Desktop\Polina\Polina\bin\Debug\Polina.exe.config
+C:\Users\Lena\Desktop\Polina\Polina\obj\Debug\Polina.exe
+C:\Users\Lena\Desktop\Polina\Polina\obj\Debug\Polina.pdb
+C:\Users\Lena\Desktop\Polina\Polina\bin\Debug\Polina.exe
+C:\Users\Lena\Desktop\Polina\Polina\bin\Debug\Polina.pdb
+C:\Users\Lena\Desktop\Polina\Polina\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Lena\Desktop\Polina\Polina\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Lena\Desktop\Polina\Polina\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Lena\Desktop\Polina\Polina\obj\Debug\Polina.csprojResolveAssemblyReference.cache
+C:\Users\Lena\Desktop\Polina\Polina\obj\Debug\Form1.g.cs
+C:\Users\Lena\Desktop\Polina\Polina\obj\Debug\Form2.g.cs
+C:\Users\Lena\Desktop\Polina\Polina\obj\Debug\MainWindow.g.cs
+C:\Users\Lena\Desktop\Polina\Polina\obj\Debug\App.g.cs
+C:\Users\Lena\Desktop\Polina\Polina\obj\Debug\Polina_MarkupCompile.cache
+C:\Users\Lena\Desktop\Polina\Polina\obj\Debug\Polina_MarkupCompile.lref
+C:\Users\Lena\Desktop\Polina\Polina\obj\Debug\App.baml
+C:\Users\Lena\Desktop\Polina\Polina\obj\Debug\Form1.baml
+C:\Users\Lena\Desktop\Polina\Polina\obj\Debug\Form2.baml
+C:\Users\Lena\Desktop\Polina\Polina\obj\Debug\MainWindow.baml
+C:\Users\Lena\Desktop\Polina\Polina\obj\Debug\Polina.g.resources
+C:\Users\Lena\Desktop\Polina\Polina\obj\Debug\Polina.Properties.Resources.resources
+C:\Users\Lena\Desktop\Polina\Polina\obj\Debug\Polina.csproj.GenerateResource.Cache
+C:\Users\Lena\Desktop\Polina\Polina\obj\Debug\Form3.g.cs
+C:\Users\Lena\Desktop\Polina\Polina\obj\Debug\Form3.baml

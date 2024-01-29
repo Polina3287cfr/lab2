@@ -1,0 +1,20 @@
+﻿<Window x:Class="Polina.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Polina"
+        mc:Ignorable="d"
+        Title="Menu" WindowStyle="None" Height="400" Width="400" WindowStartupLocation="CenterScreen" AllowsTransparency="True" ResizeMode="CanMinimize" Background="Transparent" Icon="/icons8-свинья-60.png">
+    <Grid>
+        <Rectangle MouseLeftButtonDown="Window_MouseLeftButtonDown"  HorizontalAlignment="Stretch" Margin="0,0,0,0" Stroke="Transparent" VerticalAlignment="Stretch" Fill="#FFD487D4" RadiusX="20" RadiusY="20"/>
+        <Image HorizontalAlignment="Center" Height="70" Margin="0,40,0,0" VerticalAlignment="Top" Width="70" Source="/icons8-свинья-60.png"/>
+        <Button x:Name="svinea" Click="svinea_Click" VerticalAlignment="Top" HorizontalAlignment="Right" Margin="0, 10, 10, 0" Background="Transparent" Height="50" Padding="0" BorderBrush="Transparent" Width="50">
+            <Image Source="./img/close.png"></Image>
+        </Button>
+        <Button Content="Открыть форму 1" x:Name="form1_btn" HorizontalAlignment="Center" Margin="0,150,0,0" VerticalAlignment="Top" Click="form1_btn_Click"/>
+        <Button Content="Открыть форму 2" x:Name="form2" HorizontalAlignment="Center" Margin="0,200,0,0" VerticalAlignment="Top" Click="form2_Click"/>
+        <Button Content="Открыть форму 3" x:Name="form3" HorizontalAlignment="Center" Margin="0,250,0,0" VerticalAlignment="Top" Click="form3_Click"/>
+
+    </Grid>
+</Window>
