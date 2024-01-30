@@ -5,10 +5,10 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Polina"
         mc:Ignorable="d"
-        Title="Form2" WindowStyle="None" Height="400" Width="400" WindowStartupLocation="CenterScreen" AllowsTransparency="True" ResizeMode="CanMinimize" Background="Transparent" Icon="/icons8-свинья-60.png">
+        Title="Form2" WindowStyle="None" Height="400" Width="400" WindowStartupLocation="CenterScreen" AllowsTransparency="True" ResizeMode="CanMinimize" Background="Transparent" Icon="icon.png">
     <Grid>
         <Rectangle MouseLeftButtonDown="Window_MouseLeftButtonDown"  HorizontalAlignment="Stretch" Margin="0,0,0,0" Stroke="Transparent" VerticalAlignment="Stretch" Fill="#FFD487D4" RadiusX="20" RadiusY="20"/>
-        <Image HorizontalAlignment="Center" Height="70" Margin="0,40,0,0" VerticalAlignment="Top" Width="70" Source="/icons8-свинья-60.png"/>
+        <Image HorizontalAlignment="Center" Height="70" Margin="0,40,0,0" VerticalAlignment="Top" Width="70" Source="/icon.png"/>
         <Button x:Name="svinea" Click="svinea_Click" VerticalAlignment="Top" HorizontalAlignment="Right" Margin="0, 10, 10, 0" Background="Transparent" Height="50" Padding="0" BorderBrush="Transparent" Width="50">
             <Image Source="./img/close.png"></Image>
         </Button>

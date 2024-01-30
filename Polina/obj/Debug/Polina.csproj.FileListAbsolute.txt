@@ -52,3 +52,34 @@ C:\Users\Lena\Desktop\Polina\Polina\obj\Debug\Polina.Properties.Resources.resour
 C:\Users\Lena\Desktop\Polina\Polina\obj\Debug\Polina.csproj.GenerateResource.Cache
 C:\Users\Lena\Desktop\Polina\Polina\obj\Debug\Form3.g.cs
 C:\Users\Lena\Desktop\Polina\Polina\obj\Debug\Form3.baml
+D:\Новая папка\lab2\Polina\bin\Debug\Polina.exe.config
+D:\Новая папка\lab2\Polina\bin\Debug\Polina.exe
+D:\Новая папка\lab2\Polina\bin\Debug\Polina.pdb
+D:\Новая папка\lab2\Polina\bin\Debug\MaterialDesignColors.dll
+D:\Новая папка\lab2\Polina\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Новая папка\lab2\Polina\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\Новая папка\lab2\Polina\bin\Debug\MaterialDesignColors.pdb
+D:\Новая папка\lab2\Polina\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Новая папка\lab2\Polina\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Новая папка\lab2\Polina\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\Новая папка\lab2\Polina\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\Новая папка\lab2\Polina\obj\Debug\Polina.csproj.AssemblyReference.cache
+D:\Новая папка\lab2\Polina\obj\Debug\Form1.g.cs
+D:\Новая папка\lab2\Polina\obj\Debug\Form2.g.cs
+D:\Новая папка\lab2\Polina\obj\Debug\Form3.g.cs
+D:\Новая папка\lab2\Polina\obj\Debug\MainWindow.g.cs
+D:\Новая папка\lab2\Polina\obj\Debug\App.g.cs
+D:\Новая папка\lab2\Polina\obj\Debug\Polina_MarkupCompile.cache
+D:\Новая папка\lab2\Polina\obj\Debug\Polina_MarkupCompile.lref
+D:\Новая папка\lab2\Polina\obj\Debug\App.baml
+D:\Новая папка\lab2\Polina\obj\Debug\Form1.baml
+D:\Новая папка\lab2\Polina\obj\Debug\Form2.baml
+D:\Новая папка\lab2\Polina\obj\Debug\Form3.baml
+D:\Новая папка\lab2\Polina\obj\Debug\MainWindow.baml
+D:\Новая папка\lab2\Polina\obj\Debug\Polina.g.resources
+D:\Новая папка\lab2\Polina\obj\Debug\Polina.Properties.Resources.resources
+D:\Новая папка\lab2\Polina\obj\Debug\Polina.csproj.GenerateResource.cache
+D:\Новая папка\lab2\Polina\obj\Debug\Polina.csproj.CoreCompileInputs.cache
+D:\Новая папка\lab2\Polina\obj\Debug\Polina.csproj.CopyComplete
+D:\Новая папка\lab2\Polina\obj\Debug\Polina.exe
+D:\Новая папка\lab2\Polina\obj\Debug\Polina.pdb
